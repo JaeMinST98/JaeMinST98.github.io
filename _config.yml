@@ -1,9 +1,12 @@
 # The Site Configuration
+
+# Import the theme
 theme: jekyll-theme-chirpy
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: ko-KR
+lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Seoul
@@ -15,7 +18,7 @@ title: 임재민 간사의 기도편지 # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
-description: 임재민 간사의 기도편지 사이트 입니다. >- # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -23,7 +26,7 @@ description: 임재민 간사의 기도편지 사이트 입니다. >- # used by 
 url: "https://jaeminst98.github.io"
 
 github:
-  username: JaeMinST98 # change to your GitHub username
+  username: jaeminst.98 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -85,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: light # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -149,7 +152,7 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
-# --------The following options are not recommended to be modified ------------------
+# ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
