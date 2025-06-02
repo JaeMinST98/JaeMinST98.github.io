@@ -1,0 +1,82 @@
+panel:
+  newest: 최신 글
+  trending_tags: 인기 태그
+  toc: 목차
+  comments: 댓글
+  share: 공유
+  related_posts: 관련 글
+  copy_link: 링크 복사
+
+search:
+  hint: 검색어를 입력하세요...
+  cancel: 취소
+  no_results: 결과가 없습니다.
+  results_found: "%{hits}개의 결과가 있습니다"
+
+post:
+  posted: 작성일
+  updated: 수정일
+  reading_time: 읽는 데 약 %{time}분
+  views: 조회수
+  comments: 댓글
+  words: 단어 수
+  pageview_measure: 회
+
+copyright:
+  license: 이 블로그의 글은 별도 표시가 없는 한 다음 라이선스에 따라 이용할 수 있습니다.
+  author: 작성자
+  rights: 모든 권리 보유.
+
+footer:
+  powered_by: Powered by %{generator}
+  theme: Theme by %{theme}
+
+notification:
+  update_found: 새 업데이트가 있습니다.
+  update: 업데이트
+
+timezone:
+  second: 초
+  minute: 분
+  hour: 시간
+  day: 일
+  week: 주
+  month: 달
+  year: 년
+  ago: 전
+
+categories: 카테고리
+tags: 태그
+note: 참고
+warning: 경고
+tip: 팁
+draft: [초안]
+read_more: 더 읽기
+
+share:
+  twitter: 트위터에서 공유하기
+  facebook: 페이스북에서 공유하기
+  linkedin: 링크드인에서 공유하기
+  weibo: 웨이보에서 공유하기
+  telegram: 텔레그램에서 공유하기
+  whatsapp: 왓츠앱에서 공유하기
+  line: 라인에서 공유하기
+  pinterest: 핀터레스트에서 공유하기
+  reddit: 레딧에서 공유하기
+  hacker_news: Hacker News에서 공유하기
+  email: 이메일로 공유하기
+  copy_url: URL 복사
+  copied: 복사됨!
+
+page:
+  home: 홈
+  archives: 아카이브
+  about: 소개
+  categories: 카테고리
+  tags: 태그
+  posts: 글 목록
+
+accessibility:
+  nav_toggle: 내비게이션 전환
+  scroll_top: 위로 스크롤
+  scroll_bottom: 아래로 스크롤
